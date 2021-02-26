@@ -2,8 +2,7 @@
 
 (2020-08-27)
 
-[![I’ll make this short: Defining Non-Functional Requirements (NFRs) is dangerous. That’s the tweet.](nfrs-considered-harmful-tweet.png)]
-(https://twitter.com/hemul/status/1365359887996379136)
+[![I’ll make this short: Defining Non-Functional Requirements (NFRs) is dangerous. That’s the tweet.](nfrs-considered-harmful-tweet.png)](https://twitter.com/hemul/status/1365359887996379136)
 
 An NFR is broadly defined as a ‘quality’ of the software, rather than what it ‘does’. So ‘the software shall add two numbers’ is a functional requirement, while ‘the software shall run within two minutes’ or ‘the software shall be maintainable’, or ‘scalable’, or whatever, is deemed ‘non-functional’. I submit that this is a dangerous distinction to make when running a software project.
 
