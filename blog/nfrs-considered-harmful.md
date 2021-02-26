@@ -9,7 +9,7 @@ An NFR is broadly defined as a ‘quality’ of the software, rather than what i
 
 In the large, everything is functional (This has been formalised into [Hyrum’s Law](https://www.hyrumslaw.com): _“With a sufficient number of users of an API, it does not matter what you promise in the contract: all observable behaviours of your system will be depended on by somebody.”_)
 
-![There are probably children out there holding down spacebar to stay warm in the winter! YOUR UPDATE MURDERS CHILDREN.](https://imgs.xkcd.com/comics/workflow.png)
+[![There are probably children out there holding down spacebar to stay warm in the winter! YOUR UPDATE MURDERS CHILDREN.](https://imgs.xkcd.com/comics/workflow.png)](https://xkcd.com/1172/)
 
 I’ve noticed that if you call something ‘non-functional’ it immediately becomes deprioritised, a tier two requirement. What people hear is _“this would be nice to have but we don’t think anyone important actually cares much about it.”_
 
