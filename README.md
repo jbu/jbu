@@ -4,6 +4,7 @@ Hi there.
 
 ## Writings
 
+* [In defence of breaking changes](https://github.com/jbu/jbu/blob/main/blog/in-defence-of-breaking-changes.md)
 * [NFRs Considered Harmful](https://github.com/jbu/jbu/blob/main/blog/nfrs-considered-harmful.md)
 <!--
 **jbu/jbu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
