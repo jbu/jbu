@@ -16,4 +16,4 @@ As an example from [Wikipedia](https://en.wikipedia.org/wiki/Non-functional_requ
 
 The *danger* of reflexively saying ‘it’s performance, that’s non-functional’ is the team doesn’t pay attention to it until too late. Just eliminate the category.
 
-(orignally version - http://web.archive.org/web/20201023212029/https://tech.labs.oliverwyman.com/blog/2020/08/27/nfrs-considered-harmful/)
+(originally version - http://web.archive.org/web/20201023212029/https://tech.labs.oliverwyman.com/blog/2020/08/27/nfrs-considered-harmful/)

@@ -39,3 +39,5 @@ Now the point of the Yegge rant above is that Google is **not** doing this relia
 This is not a big investment, and well worth it. But it is a change of mindset. A software project from an enterprise would not just hand over a binary. They wouldn’t even just hand over a service and a monthly AWS bill. The project would involve setting up and leaving behind (or maintaining – for a reasonable consideration) the engineering capability listed above. In return, the customer would have software that has all the latest security patches, performance improvements, and so forth, and whoever is running the service would have the capability to optimise runtime platforms etc. That’s a win/win from where I’m standing.
 
 (1) [“In the ongoing contest over which dystopian classic is most applicable to our time […] Butler’s novel […] may be unmatched.”](https://www.newyorker.com/books/second-read/octavia-butlers-prescient-vision-of-a-zealot-elected-to-make-america-great-again)
+
+(Originally in http://web.archive.org/web/20201113035100/https://tech.labs.oliverwyman.com/blog/2020/10/02/breaking-changes/)
