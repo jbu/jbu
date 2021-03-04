@@ -4,7 +4,7 @@ Hi there.
 
 ## Writings
 
-* [In defence of breaking changes (2020-10-02)](jbu/blob/main/blog/in-defence-of-breaking-change.md)
+* [In defence of breaking changes (2020-10-02)](blog/in-defence-of-breaking-change.md)
 * [NFRs Considered Harmful (2020-08-27)](jbu/blob/main/blog/nfrs-considered-harmful.md)
 * [Application patterns for the outernet (2016-03-29)](jbu/jbu/blob/main/blog/application-patterns-for-the-outernet.md)
 * [The life-changing magic of refactoring (2015-10-30)](jbu/jbu/blob/main/blog/the-life-changing-magic-of-refactoring.md)
