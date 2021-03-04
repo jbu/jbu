@@ -49,7 +49,10 @@ So now we have a nice generic source of primes that grows only as we take more. 
 
 A few months ago Rich Hickey introduced reducers. By turning the concept of ‘reducing’ inside out the new framework allows a parallel reduce (fold) in some circumstances. Which doesn’t apply here. But let’s see if we can build a different form of sieve using the new framework. First a quick overview (cribbing from the original blog post):
 
-Collections are now ‘reducible’, in that they implement a reduce protocol. Filter, map, etc are implemented as functions that can be applied by a reducible to itself to return another reducible, but lazily, and possibly in parallel. So in the example below we have a reducible (a vector), that maps inc to itself to return a reducible that is then wrapped with a filter on even? which returns a further reducible, that reduce then collects with +.
+> Collections are now _reducible_, in that they implement a `reduce` protocol. `Filter`, `map`, etc are implemented as functions that
+can be applied by a reducible to itself to return another reducible, but lazily, and possibly in parallel. So in the example
+below we have a reducible (a vector), that maps inc to itself to return a reducible that is then wrapped with a filter on
+`even?` which returns a further reducible, that reduce then collects with `+`.
 
 ```clojure
 (require '[clojure.core.reducers :as r])
@@ -71,7 +74,9 @@ These are composable, so we can build ‘recipes’.
 (into [] (r/filter even? (r/map inc [1 1 1 2])))
 ;= [2 2 2]
 ```
-So here’s the core of ‘reducer’, which “Given a reducible collection, and a transformation function xf, returns a reducible collection, where any supplied reducing fn will be transformed by xf. xf is a function of reducing fn to reducing fn.”
+So here’s the core of ‘reducer’, which 
+> Given a reducible collection, and a transformation function `xf`, returns a reducible collection, where any supplied reducing **fn** will be transformed by `xf`. `xf` is a function of reducing **fn** to reducing **fn**.
+
 ```clojure
 (defn reducer ([coll xf] 
   (reify clojure.core.protocols/CollReduce 
@@ -86,7 +91,7 @@ And we can then use that to implement mapping as so:
 (reduce + 0 (rmap inc [1 2 3 4]))
 ;= 14
 ```
-Fine. So what about sieves? One thought is we could build up a list of composed filters, built as new primes are found (see the lazy-seq example above). But there’s no obvious place to do the building, as applying the reducing functions is left to the reducible implementation. Another possibility is to introduce a new type of reducing function, the ‘progressive-filter’, which keeps track of past finds and can filter against them.
+Fine. So what about sieves? One thought is we could build up a list of composed filters, built as new primes are found (see the `lazy-seq` example above). But there’s no obvious place to do the building, as applying the reducing functions is left to the reducible implementation. Another possibility is to introduce a new type of reducing function, the ‘progressive-filter’, which keeps track of past finds and can filter against them.
 ```clojure
 (defn prog-filter [f] 
     (let [flt (atom [])] 
