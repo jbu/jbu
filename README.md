@@ -2,6 +2,8 @@
 
 Hi there.
 
+Here's a [CV](cv.md).
+
 ## Writings
 
 * [In defence of breaking changes (2020-10-02)](blog/in-defence-of-breaking-change.md)
