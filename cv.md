@@ -1,4 +1,4 @@
-<img align="left" style="padding-right: 20px" src="assets/owlogo.jpg"/>
+<img align="right" style="padding-left: 20px" src="assets/owlogo.jpg"/>
 
 ## Lead Senior Engineer
 ### Oliver Wyman, London, UK
@@ -6,7 +6,7 @@
 
 LShift was acquired by Oliver Wyman to form the core of their technology delivery capability. Since then I've been involved in various projects, mostly in the financial space.
 
-<img align="left" style="padding-right: 20px" src="assets/lshiftlogo.jpg"/>
+<img align="right" style="padding-left: 20px" src="assets/lshiftlogo.jpg"/>
 
 ## Senior Developer
 ### LShift, London, UK
@@ -14,7 +14,7 @@ LShift was acquired by Oliver Wyman to form the core of their technology deliver
 
 "LShift is a hi-tech software development company. It is small but, we like to think, close to perfectly formed. Our company is home to some of the best developers in the UK - not only in our opinion, but in the opinion of a number of international blue chip companies who use our development and research skills."
 
-<img align="left" style="padding-right: 20px" src="assets/usydlogo.jpg"/>
+<img align="right" style="padding-left: 20px" src="assets/usydlogo.jpg"/>
 
 ## Research Fellow
 ### University of Sydney, Sydney, Australia
@@ -22,7 +22,7 @@ LShift was acquired by Oliver Wyman to form the core of their technology deliver
 
 I am making a research user model server (python) and related clients (python, C/C++) ready for user trials and open source release, as well as advising PhD students, adding some long-desired features to the server, teaching parts of an HCI/CS course.
 
-<img align="left" style="padding-right: 20px" src="assets/nokialogo.png"/>
+<img align="right" style="padding-left: 20px" src="assets/nokialogo.png"/>
 
 ## Senior Architect
 ### Nokia, Farnborough, UK
@@ -30,7 +30,7 @@ I am making a research user model server (python) and related clients (python, C
 
 Various roles, including software Team Lead and software Architect for a number of phone programs, architect for new product ideas, global architect for an important new software technology within a key development team, and member of a global team responsible for a number of vital architecture and technology initiatives.
 
-<img align="left" style="padding-right: 20px" src="http://placekitten.com/g/100/100"/>
+<img align="right" style="padding-left: 20px" src="http://placekitten.com/g/100/100"/>
 
 ## Senior Consultant / Team Leader
 ### Mobile Innovation, London UK
@@ -42,7 +42,7 @@ Built and led a team that developed the UI framework for Series 90 and Series 80
 
 Acted as a 'bridge' between the engineering and UI teams to keep communication working.
 
-<img align="left" style="padding-right: 20px" src="assets/fsecurelogo.png"/>
+<img align="right" style="padding-left: 20px" src="assets/fsecurelogo.png"/>
 
 ## Senior Software Engineer/Researcher
 ### F-Secure Corporation, Helsinki, Finland
@@ -54,7 +54,7 @@ Founding member of the Usability Working Group & research project manager leadin
 
 Java Competence Team Manager. Built and maintained the company's Java expertise. Architect and Team Leader for a large-scale server implemented in Java.
 
-<img align="left" style="padding-right: 20px" src="assets/usydlogo.jpg"/>
+<img align="right" style="padding-left: 20px" src="assets/usydlogo.jpg"/>
 
 ## Software Development Manager
 ### University of Sydney
