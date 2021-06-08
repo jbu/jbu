@@ -23,10 +23,15 @@ For those of you who haven’t been exposed, the Konmari method may be summarise
 * Enjoy your new life where you are in control of your stuff!
 
 I propose that this applies to code. I’ve long held that the best broad metric for technical debt is lines of code, and aggressively getting rid of code is often the most productive thing you can do. That said, you have no idea what you can get rid of until you can get an overview of everything that relates. So, here are some early thoughts of ‘categories’ in code, and how ‘getting everything into one place’ might look.
+
 A **database table** might be a category. Getting it all into one place would mean reducing any related stored procedures, sql functions or triggers to minimum and transferring the logic to your client language where it can be refactored as a whole. You might find that you need to introduce some sort of wrapper that contains the common code found among all the various interactions with the table, which is a win. You may also find that huge swathes of the code are just not used. Get rid of it!
+
 **UI**: Log every time a form opens (yay the ELK stack!). If after a month or so you find that there are forms that are not used, you know what to do!
+
 **Integrations**: Sometimes links to other systems are not over a well defined bridge, but through random API calls thorough your system. Build a bridge. Centralise the integration. Refactor *all* the code to use the bridge. This might allow you to, say, use a queue in the bridge to solve a performance problem, or do something helpful with a network where you couldn’t before.
+
 **Business crown jewels**: Is there a process, reporting system, large calculation, that is business critical but not in a well specified and defined location in the code? Make it so! Capture it in a well designed module (and keep it safe).
+
 Often each of these can be set up as a project that delivers something concrete and useful to the customer, even if it’s reduced risk or support costs. That makes it far easier to justify and support. You get to move from win to win until (eventually) you end up with the new hotness, just by a different path.
 
 [![Konmari all the things!](https://memegenerator.net/img/instances/62502463.jpg)](http://memegenerator.net/instance/62502463)
