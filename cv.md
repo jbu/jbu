@@ -7,7 +7,7 @@ The 1-powerpoint-slide version from work:
 <blockquote>
 James is a senior engineering lead in our Digital practice where he specializes in leading solutions to the most complex technical challenges. With over 25 years of technical and leadership experience across industries, technologies, and cultures, he is able to offer valuable insights to clients. 
 
-"Technology is changing so fast and the part of my job I enjoy the most is tackling complex problems for clients. Sometimes optimizing the software can improve performance by 1000 percent, or other times we help businesses enable scale through a cloud migration, or improve performance through culture and process insights. Above all, we help our clients to find the best path that is right for them.
+"Technology is changing so fast and the part of my job I enjoy the most is tackling complex problems for clients. Sometimes optimizing the software can improve performance by 1000 percent, or other times we help businesses enable scale through a cloud migration, or improve performance through culture and process insights. Above all, we help our clients to find the best path that is right for them."
  
 James has worked across a broad range of projects at <work>. To help clients work more efficiently and innovatively, he often encourages clients to think beyond the technology itself. For example, he recently helped an insurer improve their data engineering culture, so their business teams could collaborate better with their data scientists, which resulted in significant performance improvements within their financial software projects.
  
