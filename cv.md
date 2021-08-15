@@ -5,15 +5,15 @@ james.uther at gmail.com | [@hemul](https://twitter.com/hemul)
 The 1-powerpoint-slide version from work: 
 
 <blockquote>
- James is a senior engineering lead in our Digital practice where he specializes in leading solutions to the most complex technical challenges. With over 25 years of technical and leadership experience across industries, technologies, and cultures, he is able to offer valuable insights to clients. 
+James is a senior engineering lead in our Digital practice where he specializes in leading solutions to the most complex technical challenges. With over 25 years of technical and leadership experience across industries, technologies, and cultures, he is able to offer valuable insights to clients. 
+
+"Technology is changing so fast and the part of my job I enjoy the most is tackling complex problems for clients. Sometimes optimizing the software can improve performance by 1000 percent, or other times we help businesses enable scale through a cloud migration, or improve performance through culture and process insights. Above all, we help our clients to find the best path that is right for them.
  
- “Technology is changing so fast and the part of my job I enjoy the most is tackling complex problems for clients. Sometimes optimizing the software can improve performance by 1000 percent, or other times we help businesses enable scale through a cloud migration, or improve performance through culture and process insights. Above all, we help our clients to find the best path that is right for them.
+James has worked across a broad range of projects at <work>. To help clients work more efficiently and innovatively, he often encourages clients to think beyond the technology itself. For example, he recently helped an insurer improve their data engineering culture, so their business teams could collaborate better with their data scientists, which resulted in significant performance improvements within their financial software projects.
  
- James has worked across a broad range of projects at <work>. To help clients work more efficiently and innovatively, he often encourages clients to think beyond the technology itself. For example, he recently helped an insurer improve their data engineering culture, so their business teams could collaborate better with their data scientists, which resulted in significant performance improvements within their financial software projects.
+“It’s easy to fall into technology cargo cults and misapply technical and organizational trends. It takes the experience gained by using a wide variety of tools in many disparate situations to be able to quickly identify how best to use the resources you have for your project”
  
- “It’s easy to fall into technology cargo cults and misapply technical and organizational trends. It takes the experience gained by using a wide variety of tools in many disparate situations to be able to quickly identify how best to use the resources you have for your project”
- 
- James arrived in the UK from Australia many years ago, via a detour for a few years in Finland. He can often be found wandering the hills of some random wilderness, or helping his son with redstone machines in Minecraft. He holds a PhD in Computer Science from the University of Sydney.
+James arrived in the UK from Australia many years ago, via a detour for a few years in Finland. He can often be found wandering the hills of some random wilderness, or helping his son with redstone machines in Minecraft. He holds a PhD in Computer Science from the University of Sydney.
 </blockquote>
 More info:
 
