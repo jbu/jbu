@@ -4,6 +4,7 @@ james.uther at gmail.com | [@hemul](https://twitter.com/hemul)
 
 The 1-powerpoint-slide version from work: 
 
+<blockquote>
  James is a senior engineering lead in our Digital practice where he specializes in leading solutions to the most complex technical challenges. With over 25 years of technical and leadership experience across industries, technologies, and cultures, he is able to offer valuable insights to clients. 
  
  “Technology is changing so fast and the part of my job I enjoy the most is tackling complex problems for clients. Sometimes optimizing the software can improve performance by 1000 percent, or other times we help businesses enable scale through a cloud migration, or improve performance through culture and process insights. Above all, we help our clients to find the best path that is right for them.
@@ -13,8 +14,8 @@ The 1-powerpoint-slide version from work:
  “It’s easy to fall into technology cargo cults and misapply technical and organizational trends. It takes the experience gained by using a wide variety of tools in many disparate situations to be able to quickly identify how best to use the resources you have for your project”
  
  James arrived in the UK from Australia many years ago, via a detour for a few years in Finland. He can often be found wandering the hills of some random wilderness, or helping his son with redstone machines in Minecraft. He holds a PhD in Computer Science from the University of Sydney.
-
-More:
+</blockquote>
+More info:
 
 ## Key Skills
 Software development, strategy, architecture & management. Ability to influence and coordinate across expertise boundaries. Development methods, including scrum/agile. Coding. UI & visualisation design. Product prototyping and iteration. Team leadership. A variety of programming languages ranging from object-oriented to functional, and proven ability to rapidly become productive in new technologies. Recently used languages include [Python](http://xkcd.com/353/), Java, Scala, Clojure, C++, TypeScript, JavaScript, Rust, F# and C#, and they have been used in a range of environments. I have contributed to and initiated open source projects. Also lots of infrastructure and DevOps (I've lived the Kubernetes dream)
