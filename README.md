@@ -8,7 +8,7 @@ Here's a [CV](cv.md).
 
 * [In defence of breaking changes (2020-10-02)](blog/in-defence-of-breaking-change.md)
 * [NFRs Considered Harmful (2020-08-27)](blog/nfrs-considered-harmful.md)
-* [Improving Life in Smaller, Heterogeneous Projects](https://www.infoq.com/presentations/smaller-heterogeneous-projects/)
+* [Improving Life in Smaller, Heterogeneous Projects (2018-04-02)](https://www.infoq.com/presentations/smaller-heterogeneous-projects/)
 * [Application patterns for the outernet (2016-03-29)](blog/application-patterns-for-the-outernet.md)
 * [The life-changing magic of refactoring (2015-10-30)](blog/the-life-changing-magic-of-refactoring.md)
 * [Global Alliance for Genomics and Health (2015-08-11)](blog/ga4gh.md)
