@@ -1,6 +1,6 @@
 # Dr James Uther
 
-james.uther at gmail.com | [@hemul](https://twitter.com/hemul)
+james.uther at gmail.com | [@hemul](https://twitter.com/hemul) [@jbu](https://www.github.com/jbu)
 
 The 1-powerpoint-slide version from work: 
 
@@ -123,6 +123,12 @@ Research in architecture and user interfaces for educational software.
 ### BSc (Hons) Computer Science, Mathematics
 ### 1988 – 1991
 Hons thesis in Digital Signal Processing
+
+## Prehistoric
+ 
+- Gold Duke of Edinburgh award. Also became an assessor.
+- School captian of 'Adventure Training' (risk sports)
+- Crucifer at Guildford Cathedral. Briefly.
 
 # Publications
 
