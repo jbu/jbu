@@ -128,7 +128,7 @@ Hons thesis in Digital Signal Processing
  
 - Gold Duke of Edinburgh award. Also became an assessor.
 - School captian of 'Adventure Training' (risk sports)
-- Crucifer at Guildford Cathedral. Briefly.
+- Crucifer at Guildford Cathedral.
 
 # Publications
 
