@@ -2,6 +2,12 @@
 
 Hi there.
 
+I've moved this to https://uther.wtf. 
+
+so contents here might have bitrot.
+-----
+
+
 Here's a [CV](cv.md).
 
 ## Writings
