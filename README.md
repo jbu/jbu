@@ -8,7 +8,7 @@ so contents here might have bitrot.
 -----
 
 
-Here's a [CV](cv.md).
+Here's a [CV](https://uther.wtf/cv.html).
 
 ## Writings
 
