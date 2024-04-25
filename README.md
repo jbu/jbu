@@ -2,13 +2,13 @@
 
 Hi there.
 
-I've moved this to https://uther.wtf. 
+I've moved this to https://uther.uk. 
 
 so contents here might have bitrot.
 -----
 
 
-Here's a [CV](https://uther.wtf/cv.html).
+Here's a [CV](https://uther.uk/cv.html).
 
 ## Writings
 
